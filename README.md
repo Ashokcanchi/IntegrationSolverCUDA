@@ -1,4 +1,4 @@
-# CUDA Final Project
+# CUDA Project
 
 This project demonstrates the use of CUDA to perform parallel computations on the GPU. The program includes matrix addition and optimized reduction operations, showcasing the power of CUDA for high-performance computing.
 
